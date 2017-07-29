@@ -20,7 +20,7 @@ $ sudo apt-get install build-essential pandoc texlive-full
 On Arch Linux, try:
 
 ```bash
-$ sudo pacman -S ghc alex happy cabal-install texlive-core texlive-science texlive-latexextra
+$ sudo pacman -S ghc alex happy cabal-install texlive-core texlive-science texlive-latexextra python-beautifulsoup4
 $ sudo cabal update
 $ sudo cabal install --global pandoc
 ```
